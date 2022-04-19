@@ -1,0 +1,53 @@
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter String:
+String after adjacent duplicate characters were removed: xalaG eht ot ediuG s'rekih-hctiH ehT
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter String:
+String after adjacent duplicate characters were removed: srevinU eht fo dnE eht ta tnaruatseR ehT
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter String:
+String after adjacent duplicate characters were removed: nihtyrevE dna esrevinU eht ,efiL
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+
+Please enter String:
+String after adjacent duplicate characters were removed: hsiF eht rof sknahT dna ,gnoL oS
+
+What would you like to do?
+
+1: Find the largest number in an array of integers
+2: Calculate the product of all prime numbers in an array of integers
+3: Find the element with the largest sum of digits in an array of integers
+4: Remove adjacent duplicate characters in a String
+5: Quit
+

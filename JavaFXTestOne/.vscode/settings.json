@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Library/javafx-sdk-17.0.2/lib/**/*.jar"
+    ]
+}
